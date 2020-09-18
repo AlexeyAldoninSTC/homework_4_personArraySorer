@@ -1,4 +1,4 @@
-package aldonin.task.fuction;
+package aldonin.task.processor;
 
 import aldonin.task.domain.Person;
 

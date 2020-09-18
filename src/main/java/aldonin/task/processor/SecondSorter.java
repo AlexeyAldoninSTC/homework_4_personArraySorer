@@ -2,7 +2,6 @@ package aldonin.task.processor;
 
 import aldonin.task.domain.Person;
 import aldonin.task.domain.Sex;
-import aldonin.task.fuction.PersonArraySorter;
 import aldonin.task.util.PersonUtil;
 
 public class SecondSorter implements PersonArraySorter {

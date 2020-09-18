@@ -2,7 +2,7 @@ package aldonin.task.app;
 
 import aldonin.task.domain.Person;
 import aldonin.task.exception.PersonInfoMatchException;
-import aldonin.task.fuction.PersonArraySorter;
+import aldonin.task.processor.PersonArraySorter;
 import aldonin.task.processor.FirstSorter;
 import aldonin.task.processor.SecondSorter;
 import aldonin.task.util.PersonUtil;
